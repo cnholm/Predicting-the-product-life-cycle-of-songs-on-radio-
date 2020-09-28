@@ -1,5 +1,5 @@
-# Predicting-the-product-life-cycle-of-songs-on-radio-
-Predicting the product life cycle of songs on radio
+# Predicting-the-product-life-cycle-of-songs-on-radio
+Time Series Forecast: Predicting the product life cycle of songs on radio
 
 This project was developed to provide the radio monitoring company WARM with a new forecasting
 tool that provides a competitive advantage in the music industry. The solution is a machine
